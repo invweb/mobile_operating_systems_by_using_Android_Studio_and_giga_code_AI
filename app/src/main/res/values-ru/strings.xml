@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Мобильные операционные системы</string>
+    <string name="mobile_systems_title">Мобильные системы</string>
+    <string name="operating_systems">Операционные системы</string>
+    <string name="android">Android</string>
+    <string name="ios">iOS</string>
+    <string name="harmonyos">HarmonyOS</string>
+    <string name="windows_mobile">Windows Mobile</string>
+    <string name="kaios">KaiOS</string>
+    <string name="blackberry_os">BlackBerry OS</string>
+    <string name="sailfish_os">Sailfish OS</string>
+    <string name="tizen">Tizen</string>
+</resources>
