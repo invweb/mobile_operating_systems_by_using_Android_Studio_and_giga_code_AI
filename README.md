@@ -63,7 +63,7 @@ This project is created for educational purposes.
 
 ## Screenshots
 
-| Main Screen |
+| Screenshots |
 |-------------|
-| ![App Screenshot_0](Screenshot_20260620_205434.png) |
-| ![App Screenshot_1](Screenshot_20260620_205457.png) |
+| ![Splash Screenshot](Screenshot_20260620_205457.png) |
+| ![Main screen Screenshot](Screenshot_20260620_205434.png) |
