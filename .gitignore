@@ -1,0 +1,68 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+#  Uncomment the following line in case you need to remove the build folder also from the app module
+# app/build/
+
+# Gradle files
+.gradle/
+build/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+*.log
+
+# Kotlin
+.kotlin/
+
+# Local configuration file
+local.properties
+
+# Proguard
+proguard/
+
+# Maven
+target/
+
+# JIRA
+.idea/
+
+# Android Studio
+.gradle/
+captures/
+ externalNativeBuild
+
+# Binary
+**/native/tmp/
+**/native/obj/
+**/native/libs/
+
+# Android Test
+# Uncomment the following line in case you need to remove the test build folder also
+# app/build/
+
+# Product flavors
+flavor
+
+# Mac
+.DS_Store
+
+# Eclipse
+.*
+
