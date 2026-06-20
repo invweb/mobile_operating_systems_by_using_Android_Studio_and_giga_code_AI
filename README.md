@@ -6,7 +6,8 @@ This application shows a list of current mobile operating systems with their ver
 
 | Main Screen |
 |-------------|
-| ![App Screenshot](docs/app_screenshot.png) |
+| ![App Screenshot_0](Screenshot_20260620_205434.png) |
+| ![App Screenshot_1](Screenshot_20260620_205434.png) |
 
 ## Technologies
 
