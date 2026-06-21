@@ -42,6 +42,7 @@ import com.example.myapplication.mvi.MobileSystemsState
 import com.example.myapplication.mvi.MobileSystem
 import com.example.myapplication.mvi.MobileSystemsConfig
 import com.example.myapplication.ui.theme.MyApplicationTheme
+import androidx.core.net.toUri
 
 @OptIn(ExperimentalMaterial3Api::class)
 class MainActivity : ComponentActivity() {
@@ -115,7 +116,7 @@ fun MobileSystemsList(state: MobileSystemsState, modifier: Modifier = Modifier) 
                 modifier = Modifier
                     .padding(16.dp)
                     .clickable {
-                        val intent = Intent(Intent.ACTION_VIEW, Uri.parse(system.url))
+                        val intent = Intent(Intent.ACTION_VIEW, system.url.toUri())
                         context.startActivity(intent)
                     }
             )
