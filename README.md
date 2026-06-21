@@ -2,12 +2,6 @@
 
 This application shows a list of current mobile operating systems with their versions and links to official websites. The app implements MVI (Model-View-Intent) architecture using Jetpack Compose and Kotlin.
 
-## Screenshots
-
-| Main Screen |
-|-------------|
-| ![App Screenshot](docs/app_screenshot.png) |
-
 ## Technologies
 
 - Jetpack Compose — modern UI framework for Android
@@ -17,7 +11,7 @@ This application shows a list of current mobile operating systems with their ver
 - StateFlow — reactive data updates
 - Coroutines — asynchronous operations
 
-## Supported Operating Systems
+## Supported Operating Systems (Submitted information about...)
 
 | OS | Version | Link |
 |----|---------|------|
@@ -66,3 +60,10 @@ This project is created for educational purposes.
 - Android: [android.com](https://www.android.com/)
 - iOS: [apple.com/ios](https://www.apple.com/ios/)
 - HarmonyOS: [harmonyos.com](https://www.harmonyos.com/)
+
+## Screenshots
+
+| Screenshots |
+|-------------|
+| ![Splash Screenshot](Screenshot_20260620_205457.png) |
+| ![Main screen Screenshot](Screenshot_20260620_205434.png) |
