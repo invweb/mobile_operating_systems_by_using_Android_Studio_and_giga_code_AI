@@ -33,16 +33,22 @@ fun AppNavigation() {
     val navController = rememberNavController()
     NavHost(navController = navController, startDestination = "list") {
         composable("list") {
-            SystemListScreen(onSystemSelected = { systemId ->
-                navController.navigate("detail/$systemId")
-            })
+            SystemListScreen(
+                onSystemSelected = { systemId ->
+                    navController.navigate("detail/$systemId")
+                },
+                navController = navController
+            )
         }
         composable(
             "detail/{systemId}",
             arguments = listOf(navArgument("systemId") { type = NavType.IntType })
         ) { entry ->
             val systemId = entry.arguments?.getInt("systemId") ?: R.string.android
-            SystemDetailScreen(systemNameResId = systemId)
+            SystemDetailScreen(
+                systemNameResId = systemId,
+                navController = navController
+            )
         }
     }
 }
