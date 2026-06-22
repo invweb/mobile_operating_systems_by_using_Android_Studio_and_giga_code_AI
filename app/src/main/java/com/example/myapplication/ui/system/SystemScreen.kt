@@ -104,6 +104,7 @@ fun SystemDetailScreen(
     }
 }
 
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun SystemListScreen(
     onSystemSelected: (Int) -> Unit,
