@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">Mobile Systeme</string>
-    <string name="mobile_systems_title">Mobile Systeme</string>
-    <string name="operating_systems">Betriebssysteme</string>
+    <string name="app_name">Mobile Operating Systems</string>
+    <string name="mobile_systems_title">Mobile Systems</string>
+    <string name="operating_systems">Operating Systems</string>
     <string name="android">Android</string>
     <string name="ios">iOS</string>
     <string name="harmonyos">HarmonyOS</string>
@@ -10,4 +10,14 @@
     <string name="blackberry_os">BlackBerry OS</string>
     <string name="sailfish_os">Sailfish OS</string>
     <string name="tizen">Tizen</string>
+    <string name="description_android">Android ist ein mobiles Betriebssystem basierend auf einem modifizierten Linux-Kernel und anderen Open-Source-Software, entwickelt hauptsächlich für Touchscreen-Mobilgeräte wie Smartphones und Tablets.</string>
+    <string name="description_ios">iOS ist ein mobiles Betriebssystem, das von Apple Inc. ausschließlich für seine Hardware entwickelt wurde. Es ist die zweitbeliebteste mobile OS der Welt nach Android.</string>
+    <string name="description_harmonyos">HarmonyOS ist ein verteiltes Betriebssystem, das von Huawei entwickelt wurde. Es ist darauf ausgelegt, verschiedene Gerätetypen wie Smartphones, Tablets, PCs und IoT-Geräte zu unterstützen.</string>
+    <string name="description_windows_mobile">Windows Mobile ist eine Familie von mobilen Betriebssystemen, die von Microsoft für Smartphones und PDAs entwickelt wurde.</string>
+    <string name="description_kaios">KaiOS ist ein Linux-basiertes Betriebssystem, das für Feature-Phones mit physischen Tastaturen entwickelt wurde. Es unterstützt 4G, Wi-Fi, GPS und moderne Web-Apps.</string>
+    <string name="description_blackberry_os">BlackBerry OS ist ein mobiles Betriebssystem, das von BlackBerry Limited für die BlackBerry-Smartphone-Serie entwickelt wurde.</string>
+    <string name="description_sailfish_os">Sailfish OS ist eine GNU/Linux-basierte mobile Betriebssystem, die von Jolla entwickelt wurde. Es ist für Smartphones und Tablets konzipiert.</string>
+    <string name="description_tizen">Tizen ist eine Open-Source-Standard-Softwareplattform für verschiedene Gerätekategorien, einschließlich Smartphones, Tablets und Smart TVs.</string>
+<string name="visit_website">Webseite besuchen</string>
+    <string name="version_colon">Version</string>
 </resources>

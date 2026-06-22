@@ -10,4 +10,14 @@
     <string name="blackberry_os">BlackBerry OS</string>
     <string name="sailfish_os">Sailfish OS</string>
     <string name="tizen">Tizen</string>
+    <string name="description_android">Android is a mobile operating system based on a modified Linux kernel and other open-source software, designed primarily for touchscreen mobile devices such as smartphones and tablets.</string>
+    <string name="description_ios">iOS is a mobile operating system created and developed by Apple Inc. exclusively for its hardware. It is the second most popular mobile OS in the world after Android.</string>
+    <string name="description_harmonyos">HarmonyOS is a distributed operating system developed by Huawei. It is designed to support various types of devices, including smartphones, tablets, PCs, and IoT devices.</string>
+    <string name="description_windows_mobile">Windows Mobile is a family of mobile operating systems developed by Microsoft for smartphones and PDA devices.</string>
+    <string name="description_kaios">KaiOS is a Linux-based operating system designed for feature phones with physical keyboards. It supports 4G, Wi-Fi, GPS, and modern web apps.</string>
+    <string name="description_blackberry_os">BlackBerry OS is a mobile operating system developed by BlackBerry Limited for the line of BlackBerry smartphones.</string>
+    <string name="description_sailfish_os">Sailfish OS is a GNU/Linux-based mobile operating system developed by Jolla. It is designed for smartphones and tablets.</string>
+    <string name="description_tizen">Tizen is an open source, standardized software platform for various device categories, including smartphones, tablets, and smart TVs.</string>
+    <string name="visit_website">Visit Website</string>
+    <string name="version_colon">Version</string>
 </resources>

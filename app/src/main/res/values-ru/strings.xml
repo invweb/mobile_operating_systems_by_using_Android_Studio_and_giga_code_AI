@@ -10,4 +10,14 @@
     <string name="blackberry_os">BlackBerry OS</string>
     <string name="sailfish_os">Sailfish OS</string>
     <string name="tizen">Tizen</string>
+    <string name="description_android">Android — это мобильная операционная система на основе изменённого ядра Linux и другого программного обеспечения с открытым исходным кодом, разработанная в первую очередь для сенсорных мобильных устройств, таких как смартфоны и планшеты.</string>
+    <string name="description_ios">iOS — это мобильная операционная система, созданная и разработанная Apple Inc. исключительно для своего оборудования. Это вторая по популярности мобильная ОС в мире после Android.</string>
+    <string name="description_harmonyos">HarmonyOS — это распределённая операционная система, разработанная Huawei. Она предназначена для поддержки различных типов устройств, включая смартфоны, планшеты, ПК и IoT-устройства.</string>
+    <string name="description_windows_mobile">Windows Mobile — это семейство мобильных операционных систем, разработанных Microsoft для смартфонов и КПК.</string>
+    <string name="description_kaios">KaiOS — это Linux-операционная система, разработанная для фичерфонов с физической клавиатурой. Она поддерживает 4G, Wi-Fi, GPS и современные приложения.</string>
+    <string name="description_blackberry_os">BlackBerry OS — это мобильная операционная система, разработанная BlackBerry Limited для серии смартфонов BlackBerry.</string>
+    <string name="description_sailfish_os">Sailfish OS — это мобильная операционная система на основе GNU/Linux, разработанная Jolla. Она предназначена для смартфонов и планшетов.</string>
+    <string name="description_tizen">Tizen — это open source, стандартизированная программная платформа для различных категорий устройств, включая смартфоны, планшеты и смарт-ТВ.</string>
+    <string name="visit_website">Открыть сайт</string>
+    <string name="version_colon">Версия</string>
 </resources>

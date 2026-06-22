@@ -9,6 +9,7 @@ activityCompose = "1.13.0"
 kotlin = "2.2.10"
 composeBom = "2026.02.01"
 composeManifest = "1.7.0"
+navVersion = "2.8.0"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -27,6 +28,9 @@ androidx-compose-ui-test-junit4 = { group = "androidx.compose.ui", name = "ui-te
 androidx-compose-material3 = { group = "androidx.compose.material3", name = "material3" }
 androidx-compose-ui-tooling-core = { group = "androidx.compose.ui", name = "ui-tooling", version.ref = "composeManifest" }
 androidx-compose-ui-test-manifest-core = { group = "androidx.compose.ui", name = "ui-test-manifest", version.ref = "composeManifest" }
+androidx-nav-compose = { group = "androidx.navigation", name = "navigation-compose", version.ref = "navVersion" }
+androidx-nav-fragment = { group = "androidx.navigation", name = "navigation-fragment-ktx", version.ref = "navVersion" }
+androidx-nav-ui = { group = "androidx.navigation", name = "navigation-ui-ktx", version.ref = "navVersion" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
