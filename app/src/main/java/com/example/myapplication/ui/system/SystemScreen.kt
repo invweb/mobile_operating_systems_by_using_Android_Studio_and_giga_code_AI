@@ -88,15 +88,11 @@ fun SystemDetailScreen(
             
             Spacer(modifier = Modifier.height(32.dp))
             
-            val url by remember(systemInfo.url) { 
-                androidx.compose.runtime.mutableStateOf(systemInfo.url) 
-            }
-            
             Button(
                 onClick = {
                     val intent = android.content.Intent(
                         android.content.Intent.ACTION_VIEW,
-                        android.net.Uri.parse(url)
+                        android.net.Uri.parse(systemInfo.url)
                     )
                     context.startActivity(intent)
                 },
