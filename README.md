@@ -72,5 +72,5 @@ This project is created for educational purposes.
 | Screenshots |
 |-------------|
 | ![Splash Screenshot](Screenshot_20260620_205457.png) |
-| ![Main screen Screenshot](screenshot— 1.png) |
-| ![Details screen](screenshot— 2png) |
+| ![Main screen Screenshot](screenshot—1.png) |
+| ![Details screen](screenshot—2png) |
